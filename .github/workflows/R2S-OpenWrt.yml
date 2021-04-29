@@ -1,6 +1,6 @@
 name: R2S-OpenWrt
 
-#on:
+on:
   schedule:
     - cron: 5 6 * * 0
   watch:
